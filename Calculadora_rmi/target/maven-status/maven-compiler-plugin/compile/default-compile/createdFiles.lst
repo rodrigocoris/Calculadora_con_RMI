@@ -1,0 +1,9 @@
+com\mycompany\chat_rmi\interfaceRMI.class
+com\mycompany\chat_rmi\clienteRMI.class
+com\mycompany\chat_rmi\implementacionChat.class
+com\mycompany\chat_rmi\Chat_rmi.class
+com\mycompany\chat_rmi\servidorRMI.class
+com\mycompany\chat_rmi\chatServidor.class
+com\mycompany\chat_rmi\implementacionClienteChat.class
+com\mycompany\chat_rmi\implementacionInterface.class
+com\mycompany\chat_rmi\chatCliente.class
